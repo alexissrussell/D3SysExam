@@ -1,0 +1,15 @@
+/Users/AlexisRussell/htdocs
+/Users/AlexisRussell/htdocs/.DS_Store
+/Users/AlexisRussell/htdocs/commands
+/Users/AlexisRussell/htdocs/commands/desktopls.txt
+/Users/AlexisRussell/htdocs/commands/img.txt
+/Users/AlexisRussell/htdocs/img
+/Users/AlexisRussell/htdocs/img/.DS_Store
+/Users/AlexisRussell/htdocs/index.html
+/Users/AlexisRussell/htdocs/scripts
+/Users/AlexisRussell/htdocs/scripts/.DS_Store
+/Users/AlexisRussell/htdocs/scripts/css
+/Users/AlexisRussell/htdocs/scripts/css/style.css
+/Users/AlexisRussell/htdocs/scripts/js
+/Users/AlexisRussell/htdocs/scripts/js/jq.js
+/Users/AlexisRussell/htdocs/scripts/js/myjs.js
